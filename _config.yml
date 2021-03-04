@@ -114,10 +114,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/dohun-digipen"
+      url: "github.com/dohun-digipen"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/i_m_0v0/"
+      url: "www.instagram.com/i_m_0v0/"
 
 # Site Footer
 footer:
